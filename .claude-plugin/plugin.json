@@ -1,0 +1,8 @@
+{
+  "name": "searching-near-maimai",
+  "description": "출발지 근처(같은 권역)의 마이마이(maimai DX) 보유 오락실까지 대중교통 최소 소요시간을 카카오맵으로 조회하는 스킬",
+  "version": "1.0.0",
+  "author": {
+    "name": "ZaMan0806"
+  }
+}
